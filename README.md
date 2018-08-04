@@ -1,0 +1,2 @@
+# ForgeCoin
+ForgeCoin cryptocurrency 
